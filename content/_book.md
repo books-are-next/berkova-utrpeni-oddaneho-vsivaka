@@ -1,39 +1,32 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Utrpení oddaného Všiváka
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Alexandra Berková
+  publisher: Městská knihovna v Praze
+  modified: '2021-06-23T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - utrpeni_oddaneho_vsivaka_001.html
+  - utrpeni_oddaneho_vsivaka_002.html
+  - utrpeni_oddaneho_vsivaka_003.html
+  - utrpeni_oddaneho_vsivaka_004.html
+  - utrpeni_oddaneho_vsivaka_005.html
+  - utrpeni_oddaneho_vsivaka_006.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
