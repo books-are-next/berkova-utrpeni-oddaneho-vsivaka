@@ -1,0 +1,776 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Utrpení oddaného Všiváka",
+  "author": "Alexandra Berková",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "berkova-utrpeni-oddaneho-vsivaka-b3f3e01",
+  "revision": "b3f3e01",
+  "readingOrder": [
+    "promo.html",
+    "utrpeni_oddaneho_vsivaka_005.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Sep 16 2022 08:43:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663317817890
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "utrpeni_oddaneho_vsivaka_005.html",
+      "toc": []
+    },
+    {
+      "title": "Utrpení oddaného Všiváka",
+      "file": "utrpeni_oddaneho_vsivaka_005.html",
+      "words": 18903,
+      "chars": 105221,
+      "ideas": 758,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "TÁHNI DO SKAL,",
+              "id": "táhni-donbspskal",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "NEZNAJE TMY?",
+              "id": "neznaje-tmy",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "JAKO ŽIVOT…",
+              "id": "jako-život",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "INTELIGENTNÍ MYSLEJ!",
+              "id": "inteligentní-myslej",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "SETRVÁVÁME,",
+              "id": "setrváváme",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "A NAJEDNOU",
+              "id": "anajednou",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "PŘELÍTLA NA JINÝ",
+              "id": "přelítla-nanbspjiný",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "SNAD ŽE SE",
+              "id": "snad-ženbspse",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "ZAHRADNÍK",
+              "id": "zahradník",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "PRÁVĚ VYCHÁZEJÍCÍM",
+              "id": "právě-vycházejícím",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "A NECHCE –",
+              "id": "anbspnechce",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "RÁNO A VEČER",
+              "id": "ráno-anbspvečer",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "KRMI A VE",
+              "id": "krmi-anbspve",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "BEZ NÍ UMŘE,",
+              "id": "bez-nínbspumře",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "DŘÍT A DŘÍT,",
+              "id": "dřít-anbspdřít",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "NĚKDY ŘÍKAL –",
+              "id": "někdy-říkal",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "USMÍVAT! – JÁ",
+              "id": "usmívat-já",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "OSTATNÍ ZVÍŘATA,",
+              "id": "ostatní-zvířata",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "ŽIVOTU? VŽDYŤ",
+              "id": "životu-vždyť",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "VLASTNÍCH DĚTÍ",
+              "id": "vlastních-dětí",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "VE STEJNÝ DEN",
+              "id": "venbspstejný-den",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "TAK DO PĚTADVACETI",
+              "id": "tak-donbsppětadvaceti",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "NA ZÁDECH A",
+              "id": "nanbspzádech-a",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "STROM A NA NĚM",
+              "id": "strom-ana-něm",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "UDÁLOST ČÍSLO",
+              "id": "událost-číslo",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "ŽIJÍ TU, MEZI",
+              "id": "žijí-tu-mezi",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "PRACHU, KTEREJ",
+              "id": "prachu-kterej",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "ZEMÍ SE",
+              "id": "zemí-se",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "DÍVÁ SE",
+              "id": "dívá-se",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "POHLÉDLA",
+              "id": "pohlédla",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "HRSTI",
+              "id": "hrsti",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "POLOVĚDOMÍ,",
+              "id": "polovědomí",
+              "children": []
+            },
+            {
+              "index": 33,
+              "level": 2,
+              "name": "VRÁSNĚJE, AŽ JE",
+              "id": "vrásněje-ažnbspje",
+              "children": []
+            },
+            {
+              "index": 34,
+              "level": 2,
+              "name": "DOPROVODÍM TĚ…",
+              "id": "doprovodím-tě",
+              "children": []
+            },
+            {
+              "index": 35,
+              "level": 2,
+              "name": "SI STĚŽÍ ZVYKAJÍ",
+              "id": "sinbspstěží-zvykají",
+              "children": []
+            },
+            {
+              "index": 36,
+              "level": 2,
+              "name": "A TAKY NESNÁŠÍM",
+              "id": "ataky-nesnáším",
+              "children": []
+            },
+            {
+              "index": 37,
+              "level": 2,
+              "name": "ŘEKL, ŽE",
+              "id": "řekl-že",
+              "children": []
+            },
+            {
+              "index": 38,
+              "level": 2,
+              "name": "ŠKODA, ŽE TADY",
+              "id": "škoda-ženbsptady",
+              "children": []
+            },
+            {
+              "index": 39,
+              "level": 2,
+              "name": "OMAMNÉHO,",
+              "id": "omamného",
+              "children": []
+            },
+            {
+              "index": 40,
+              "level": 2,
+              "name": "HEJ, VENKOVANÉ,",
+              "id": "hej-venkované",
+              "children": []
+            },
+            {
+              "index": 41,
+              "level": 2,
+              "name": "NĚKDE V PŮLI",
+              "id": "někde-vpůli",
+              "children": []
+            },
+            {
+              "index": 42,
+              "level": 2,
+              "name": "ÚVAHÁM.",
+              "id": "úvahám",
+              "children": []
+            },
+            {
+              "index": 43,
+              "level": 2,
+              "name": "NELZE JINAK…",
+              "id": "nelze-jinak",
+              "children": []
+            },
+            {
+              "index": 44,
+              "level": 2,
+              "name": "ZA TREST.",
+              "id": "zanbsptrest",
+              "children": []
+            },
+            {
+              "index": 45,
+              "level": 2,
+              "name": "TO MY JSME",
+              "id": "tonbspmynbspjsme",
+              "children": []
+            },
+            {
+              "index": 46,
+              "level": 2,
+              "name": "POBÍHALO: TO",
+              "id": "pobíhalo-to",
+              "children": []
+            },
+            {
+              "index": 47,
+              "level": 2,
+              "name": "VZAL DĚVČE",
+              "id": "vzal-děvče",
+              "children": []
+            },
+            {
+              "index": 48,
+              "level": 2,
+              "name": "KOTELNÍKA ZNALA",
+              "id": "kotelníka-znala",
+              "children": []
+            },
+            {
+              "index": 49,
+              "level": 2,
+              "name": "KDYŽ SE NA",
+              "id": "když-senbspna",
+              "children": []
+            },
+            {
+              "index": 50,
+              "level": 2,
+              "name": "ANI STŘEP;",
+              "id": "ani-střep",
+              "children": []
+            },
+            {
+              "index": 51,
+              "level": 2,
+              "name": "JINÝHO NEVIDIM.",
+              "id": "jinýho-nevidim",
+              "children": []
+            },
+            {
+              "index": 52,
+              "level": 2,
+              "name": "OD NĚJ DOSTAL",
+              "id": "odnbspněj-dostal",
+              "children": []
+            },
+            {
+              "index": 53,
+              "level": 2,
+              "name": "OTŘELA SLZY,",
+              "id": "otřela-slzy",
+              "children": []
+            },
+            {
+              "index": 54,
+              "level": 2,
+              "name": "A POTOM",
+              "id": "apotom",
+              "children": []
+            },
+            {
+              "index": 55,
+              "level": 2,
+              "name": "ZATO VŠAK",
+              "id": "zato-však",
+              "children": []
+            },
+            {
+              "index": 56,
+              "level": 2,
+              "name": "SMÍCHEM, CO SE",
+              "id": "smíchem-conbspse",
+              "children": []
+            },
+            {
+              "index": 57,
+              "level": 2,
+              "name": "AŽ SE NĚKTERÝ",
+              "id": "ažnbspsenbspněkterý",
+              "children": []
+            },
+            {
+              "index": 58,
+              "level": 2,
+              "name": "NEUTEČE. JE VE",
+              "id": "neuteče-jenbspve",
+              "children": []
+            },
+            {
+              "index": 59,
+              "level": 2,
+              "name": "VĚCÍ, KTERÝM",
+              "id": "věcí-kterým",
+              "children": []
+            },
+            {
+              "index": 60,
+              "level": 2,
+              "name": "VYNECHÁ",
+              "id": "vynechá",
+              "children": []
+            },
+            {
+              "index": 61,
+              "level": 2,
+              "name": "VŠIVÁK VYPRÁVĚL",
+              "id": "všivák-vyprávěl",
+              "children": []
+            },
+            {
+              "index": 62,
+              "level": 2,
+              "name": "OPRUZENČE",
+              "id": "opruzenče",
+              "children": []
+            },
+            {
+              "index": 63,
+              "level": 2,
+              "name": "U NÁS NA",
+              "id": "unbspnás-na",
+              "children": []
+            },
+            {
+              "index": 64,
+              "level": 2,
+              "name": "JEŠTĚ ZBÝVÁ…",
+              "id": "ještě-zbývá",
+              "children": []
+            },
+            {
+              "index": 65,
+              "level": 2,
+              "name": "OTCE NA TELEFONU,",
+              "id": "otce-nanbsptelefonu",
+              "children": []
+            },
+            {
+              "index": 66,
+              "level": 2,
+              "name": "ŠLA JSEM DOMŮ.",
+              "id": "šla-jsem-domů",
+              "children": [
+                {
+                  "index": 67,
+                  "level": 3,
+                  "name": "TEJDEN VRÁTIL,",
+                  "id": "tejden-vrátil",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "index": 68,
+              "level": 2,
+              "name": "PROBUĎTE SE!",
+              "id": "probuďte-se",
+              "children": []
+            },
+            {
+              "index": 69,
+              "level": 2,
+              "name": "A LÍZAT A",
+              "id": "anbsplízat-a",
+              "children": []
+            },
+            {
+              "index": 70,
+              "level": 2,
+              "name": "V HOSPODÁCH, OSLAVUJÍCE",
+              "id": "vnbsphospodách-oslavujíce",
+              "children": []
+            },
+            {
+              "index": 71,
+              "level": 2,
+              "name": "MUDRUJÍ",
+              "id": "mudrují",
+              "children": []
+            },
+            {
+              "index": 72,
+              "level": 2,
+              "name": "SHRÁBL",
+              "id": "shrábl",
+              "children": []
+            },
+            {
+              "index": 73,
+              "level": 2,
+              "name": "MŮŽE DOSVĚČIT.",
+              "id": "může-dosvěčit",
+              "children": []
+            },
+            {
+              "index": 74,
+              "level": 2,
+              "name": "SKÁČE PO HLASE",
+              "id": "skáče-ponbsphlase",
+              "children": []
+            },
+            {
+              "index": 75,
+              "level": 2,
+              "name": "NA VIZITKY",
+              "id": "nanbspvizitky",
+              "children": []
+            },
+            {
+              "index": 76,
+              "level": 2,
+              "name": "ZA INTELIGENCI",
+              "id": "zanbspinteligenci",
+              "children": []
+            },
+            {
+              "index": 77,
+              "level": 2,
+              "name": "CO JSEM TVOJE???",
+              "id": "conbspjsem-tvoje",
+              "children": []
+            },
+            {
+              "index": 78,
+              "level": 2,
+              "name": "NIC – TAKŽE",
+              "id": "nic--takže",
+              "children": []
+            },
+            {
+              "index": 79,
+              "level": 2,
+              "name": "SEDÁVALI ŽEBRAJÍCÍ",
+              "id": "sedávali-žebrající",
+              "children": []
+            },
+            {
+              "index": 80,
+              "level": 2,
+              "name": "PANÁČKU, KRÁSNÝ.",
+              "id": "panáčku-krásný",
+              "children": []
+            },
+            {
+              "index": 81,
+              "level": 2,
+              "name": "KYKYRYKÝ!!! –",
+              "id": "kykyryký",
+              "children": []
+            },
+            {
+              "index": 82,
+              "level": 2,
+              "name": "VYSKAKUJÍ",
+              "id": "vyskakují",
+              "children": []
+            },
+            {
+              "index": 83,
+              "level": 2,
+              "name": "NEJSEM ŽÁDNÝ",
+              "id": "nejsem-žádný",
+              "children": []
+            },
+            {
+              "index": 84,
+              "level": 2,
+              "name": "K PALÁCI…",
+              "id": "knbsppaláci",
+              "children": []
+            },
+            {
+              "index": 85,
+              "level": 2,
+              "name": "NEVÍ, KOLIK",
+              "id": "neví-kolik",
+              "children": []
+            },
+            {
+              "index": 86,
+              "level": 2,
+              "name": "V ŠERU",
+              "id": "vnbspšeru",
+              "children": []
+            },
+            {
+              "index": 87,
+              "level": 2,
+              "name": "PROHLÍŽÍ SI JI",
+              "id": "prohlíží-sinbspji",
+              "children": []
+            },
+            {
+              "index": 88,
+              "level": 2,
+              "name": "ODHOPSALA DO",
+              "id": "odhopsala-do",
+              "children": []
+            },
+            {
+              "index": 89,
+              "level": 2,
+              "name": "VERŠOVAL CENÍKY.",
+              "id": "veršoval-ceníky",
+              "children": []
+            },
+            {
+              "index": 90,
+              "level": 2,
+              "name": "LEGRAČNÍ STAŘÍK.",
+              "id": "legrační-stařík",
+              "children": []
+            },
+            {
+              "index": 91,
+              "level": 2,
+              "name": "MILÁČKU – TOTIŽ,",
+              "id": "miláčku--totiž",
+              "children": []
+            },
+            {
+              "index": 92,
+              "level": 2,
+              "name": "MEZI MILOSTNÝMI",
+              "id": "mezi-milostnými",
+              "children": []
+            },
+            {
+              "index": 93,
+              "level": 2,
+              "name": "NAŠI VĚC.",
+              "id": "naši-věc",
+              "children": []
+            },
+            {
+              "index": 94,
+              "level": 2,
+              "name": "VÍTĚZ NADE",
+              "id": "vítěz-nade",
+              "children": []
+            },
+            {
+              "index": 95,
+              "level": 2,
+              "name": "PACHOVOU KONZERVU.",
+              "id": "pachovou-konzervu",
+              "children": []
+            },
+            {
+              "index": 96,
+              "level": 2,
+              "name": "ON VÁS ZVE",
+              "id": "onnbspvás-zve",
+              "children": []
+            },
+            {
+              "index": 97,
+              "level": 2,
+              "name": "SKUTEČNOSTI, ŽE",
+              "id": "skutečnosti-že",
+              "children": []
+            },
+            {
+              "index": 98,
+              "level": 2,
+              "name": "NĚMU ZAHYNUL",
+              "id": "němu-zahynul",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 940,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "utrpeni_oddaneho_vsivaka_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 19053,
+      "chars": 106213,
+      "ideas": 779
+    },
+    "chapters": {
+      "words": 18903,
+      "chars": 105221,
+      "ideas": 758
+    }
+  }
+}
