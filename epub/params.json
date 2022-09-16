@@ -96,7 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Utrpení oddaného Všiváka"
           },
           {
             "filename": "utrpeni_oddaneho_vsivaka_006.md",
@@ -230,6 +231,6 @@
       "user": "books-are-next",
       "repo": "berkova-utrpeni-oddaneho-vsivaka"
     },
-    "generatedAt": 1661317158654
+    "generatedAt": 1663317717499
   }
 }
