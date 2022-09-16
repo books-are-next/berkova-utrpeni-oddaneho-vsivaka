@@ -19,7 +19,10 @@ readingOrder:
   - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: utrpeni_oddaneho_vsivaka_005.html
+        title: Utrpení oddaného Všiváka
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
