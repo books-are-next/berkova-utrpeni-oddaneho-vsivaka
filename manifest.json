@@ -8,16 +8,16 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-utrpeni-oddaneho-vsivaka-f1eb329",
-  "revision": "f1eb329",
+  "identifier": "berkova-utrpeni-oddaneho-vsivaka-8a93b56",
+  "revision": "8a93b56",
   "readingOrder": [
     "promo.html",
     "utrpeni_oddaneho_vsivaka_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:35:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901312730
+    "date": "Tue Oct 04 2022 18:29:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908151097
   },
   "documents": [
     {
