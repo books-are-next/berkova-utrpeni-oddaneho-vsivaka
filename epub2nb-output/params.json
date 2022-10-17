@@ -9,7 +9,8 @@
       "modified": "2021-06-23T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-2805-2"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Utrpení oddaného Všiváka"
+            "title": "Utrpení oddaného Všiváka",
+            "children": []
           },
           {
             "filename": "utrpeni_oddaneho_vsivaka_006.md",
@@ -230,6 +231,6 @@
       "user": "books-are-next",
       "repo": "berkova-utrpeni-oddaneho-vsivaka"
     },
-    "generatedAt": 1665415534775
+    "generatedAt": 1666031571585
   }
 }

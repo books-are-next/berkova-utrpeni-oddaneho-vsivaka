@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2805-2
 readingOrder:
   - promo.html
   - utrpeni_oddaneho_vsivaka_005.html

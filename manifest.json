@@ -8,16 +8,16 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-utrpeni-oddaneho-vsivaka-8699519",
-  "revision": "8699519",
+  "identifier": "berkova-utrpeni-oddaneho-vsivaka-34cbec4",
+  "revision": "34cbec4",
   "readingOrder": [
     "promo.html",
     "utrpeni_oddaneho_vsivaka_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:41:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416469880
+    "date": "Mon Oct 17 2022 18:34:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666031642542
   },
   "documents": [
     {
@@ -743,9 +743,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 140,
-      "chars": 941,
-      "ideas": 14,
+      "words": 144,
+      "chars": 978,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "utrpeni_oddaneho_vsivaka_005.html",
@@ -763,9 +763,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19050,
-      "chars": 106214,
-      "ideas": 776
+      "words": 19054,
+      "chars": 106251,
+      "ideas": 777
     },
     "chapters": {
       "words": 18903,
